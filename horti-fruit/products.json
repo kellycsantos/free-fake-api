@@ -1,0 +1,761 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "abacate",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/abacate.jpg",
+        "category": "fruta",
+        "price_per_kg": 7.50,
+        "rating": 4,
+        "short_description": "Fruta rica em gorduras saudáveis e antioxidantes.",
+        "medium_description": "O abacate é uma fruta tropical conhecida por suas gorduras saudáveis e alto teor antioxidante.",
+        "long_description": "O abacate é uma fruta tropical com polpa cremosa, rica em gorduras saudáveis, vitaminas e minerais essenciais. Além de seu sabor delicioso, o abacate é conhecido por seus benefícios à saúde, incluindo a melhoria da saúde do coração e a promoção da saúde da pele.",
+        "nutritional_information": {
+          "calorias": 160,
+          "gordura": 14,
+          "carboidrato": 9,
+          "proteina": 2,
+          "sódio": 0
+        }
+      },
+      {
+        "id": 2,
+        "name": "abacaxi",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/abacaxi.jpg",
+        "category": "fruta",
+        "price_per_kg": 5.80,
+        "rating": 4,
+        "short_description": "Fruta tropical com alto teor de vitamina C.",
+        "medium_description": "O abacaxi é uma fruta tropical conhecida por seu sabor doce e alto teor de vitamina C.",
+        "long_description": "O abacaxi é uma fruta tropical refrescante e deliciosa, rica em vitamina C e antioxidantes. Além de seu sabor irresistível, o abacaxi oferece uma série de benefícios à saúde, incluindo a promoção da digestão saudável e o fortalecimento do sistema imunológico.",
+        "nutritional_information": {
+          "calorias": 50,
+          "gordura": 0,
+          "carboidrato": 13,
+          "proteina": 1,
+          "sódio": 2
+        }
+      },
+      {
+        "id": 3,
+        "name": "abóbora",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/abobora.jpg",
+        "category": "legume",
+        "price_per_kg": 3.20,
+        "rating": 3,
+        "short_description": "Legume rico em betacaroteno e fibras.",
+        "medium_description": "A abóbora é um legume versátil e saudável, conhecido por seu alto teor de betacaroteno e fibras.",
+        "long_description": "A abóbora é um legume delicioso e nutritivo, repleto de betacaroteno, fibras e uma variedade de vitaminas e minerais essenciais. Além de adicionar sabor e textura a uma variedade de pratos, a abóbora oferece uma série de benefícios à saúde, incluindo a promoção da saúde ocular e a regulação do açúcar no sangue.",
+        "nutritional_information": {
+          "calorias": 30,
+          "gordura": 0,
+          "carboidrato": 8,
+          "proteina": 1,
+          "sódio": 1
+        }
+      },
+      {
+        "id": 4,
+        "name": "abobrinha",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/abobrinha.webp",
+        "category": "legume",
+        "price_per_kg": 4.00,
+        "rating": 4,
+        "short_description": "Legume versátil e baixo em calorias, ideal para diversas receitas.",
+        "medium_description": "A abobrinha é um legume versátil, com baixo teor calórico e ideal para diversas receitas.",
+        "long_description": "A abobrinha é um legume nutritivo e versátil, amplamente utilizado em várias cozinhas ao redor do mundo. Com baixo teor calórico e rico em nutrientes essenciais, a abobrinha é uma excelente adição a uma dieta saudável e equilibrada.",
+        "nutritional_information": {
+          "calorias": 20,
+          "gordura": 0,
+          "carboidrato": 4,
+          "proteina": 1,
+          "sódio": 5
+        }
+      },
+      {
+        "id": 5,
+        "name": "banana",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/banana.jpg",
+        "category": "fruta",
+        "price_per_kg": 4.50,
+        "rating": 5,
+        "short_description": "Fruta energética e rica em potássio.",
+        "medium_description": "A banana é uma fruta energética, rica em potássio e perfeita para um lanche rápido.",
+        "long_description": "A banana é uma das frutas mais populares do mundo, conhecida por sua conveniência, sabor delicioso e riqueza em nutrientes. Além de ser uma excelente fonte de potássio, a banana oferece uma série de benefícios à saúde, incluindo a melhoria da saúde digestiva e a promoção da saúde cardíaca.",
+        "nutritional_information": {
+          "calorias": 90,
+          "gordura": 0,
+          "carboidrato": 23,
+          "proteina": 1,
+          "sódio": 1
+        }
+      },
+      {
+        "id": 6,
+        "name": "batata",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/batata.jpg",
+        "category": "legume",
+        "price_per_kg": 2.80,
+        "rating": 4,
+        "short_description": "Tubérculo versátil e fonte de carboidratos.",
+        "medium_description": "A batata é um tubérculo versátil e uma excelente fonte de carboidratos.",
+        "long_description": "A batata é um dos alimentos mais consumidos em todo o mundo, apreciado por sua versatilidade, sabor e valor nutricional. Como uma excelente fonte de carboidratos, a batata é uma escolha popular para uma variedade de pratos, desde acompanhamentos simples até pratos elaborados.",
+        "nutritional_information": {
+          "calorias": 130,
+          "gordura": 0,
+          "carboidrato": 30,
+          "proteina": 2,
+          "sódio": 15
+        }
+      },
+      {
+        "id": 7,
+        "name": "batata doce",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/batata_doce.jpg",
+        "category": "legume",
+        "price_per_kg": 3.50,
+        "rating": 4,
+        "short_description": "Tubérculo rico em fibras e vitaminas.",
+        "medium_description": "A batata doce é um tubérculo nutritivo, conhecido por seu alto teor de fibras e vitaminas.",
+        "long_description": "A batata doce é um tubérculo delicioso e nutritivo, amplamente apreciado por seu sabor doce e textura macia. Além de ser uma excelente fonte de fibras e vitaminas, a batata doce oferece uma série de benefícios à saúde, incluindo a regulação do açúcar no sangue e a promoção da saúde digestiva.",
+        "nutritional_information": {
+          "calorias": 90,
+          "gordura": 0,
+          "carboidrato": 21,
+          "proteina": 2,
+          "sódio": 10
+        }
+      },
+      {
+        "id": 8,
+        "name": "berinjela",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/berinjela.webp",
+        "category": "legume",
+        "price_per_kg": 3.00,
+        "rating": 3,
+        "short_description": "Legume de baixa caloria e alto teor de fibras.",
+        "medium_description": "A berinjela é um legume de baixa caloria, rico em fibras e nutrientes essenciais.",
+        "long_description": "A berinjela é um legume versátil e nutritivo, apreciado por sua textura carnuda e sabor suave. Com baixo teor calórico e rico em fibras, a berinjela é uma excelente opção para aqueles que buscam manter uma dieta saudável e equilibrada.",
+        "nutritional_information": {
+          "calorias": 25,
+          "gordura": 0,
+          "carboidrato": 6,
+          "proteina": 1,
+          "sódio": 2
+        }
+      },
+      {
+        "id": 9,
+        "name": "brócolis",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/brocolis.jpg",
+        "category": "legume",
+        "price_per_kg": 6.00,
+        "rating": 5,
+        "short_description": "Legume crucífero rico em antioxidantes e vitaminas.",
+        "medium_description": "O brócolis é um legume crucífero conhecido por sua riqueza em antioxidantes e vitaminas.",
+        "long_description": "O brócolis é um dos legumes mais nutritivos disponíveis, repleto de antioxidantes, vitaminas e minerais essenciais. Além de seu sabor delicioso e textura crocante, o brócolis oferece uma série de benefícios à saúde, incluindo a redução do risco de doenças cardíacas e câncer.",
+        "nutritional_information": {
+          "calorias": 50,
+          "gordura": 0,
+          "carboidrato": 10,
+          "proteina": 4,
+          "sódio": 30
+        }
+      },
+      {
+        "id": 10,
+        "name": "cebola roxa",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/cebola-roxa.jpg",
+        "category": "legume",
+        "price_per_kg": 4.20,
+        "rating": 4,
+        "short_description": "Legume aromático e fonte de compostos sulfurados.",
+        "medium_description": "A cebola roxa é um legume aromático, conhecido por seu sabor distintivo e benefícios à saúde.",
+        "long_description": "A cebola roxa é um legume saboroso e nutritivo, amplamente utilizado na culinária devido ao seu sabor distinto e aroma característico. Além de adicionar sabor a uma variedade de pratos, a cebola roxa oferece uma série de benefícios à saúde, incluindo propriedades anti-inflamatórias e antioxidantes.",
+        "nutritional_information": {
+          "calorias": 40,
+          "gordura": 0,
+          "carboidrato": 10,
+          "proteina": 1,
+          "sódio": 1
+        }
+      },
+      {
+        "id": 11,
+        "name": "cenoura",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/cenoura.webp",
+        "category": "legume",
+        "price_per_kg": 3.80,
+        "rating": 4,
+        "short_description": "Raiz rica em betacaroteno e vitaminas.",
+        "medium_description": "A cenoura é uma raiz nutritiva, conhecida por seu alto teor de betacaroteno e vitaminas.",
+        "long_description": "A cenoura é uma raiz deliciosa e nutritiva, amplamente apreciada por seu sabor adocicado e riqueza em nutrientes essenciais. Com alto teor de betacaroteno, vitaminas e minerais, a cenoura oferece uma série de benefícios à saúde, incluindo a promoção da saúde ocular e a melhoria da função imunológica.",
+        "nutritional_information": {
+          "calorias": 30,
+          "gordura": 0,
+          "carboidrato": 7,
+          "proteina": 1,
+          "sódio": 3
+        }
+      },
+      {
+        "id": 12,
+        "name": "coco",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/coco.jpg",
+        "category": "fruta",
+        "price_per_kg": 8.00,
+        "rating": 4,
+        "short_description": "Fruta rica em gorduras saudáveis e fibras.",
+        "medium_description": "O coco é uma fruta tropical conhecida por suas gorduras saudáveis e alto teor de fibras.",
+        "long_description": "O coco é uma fruta tropical com polpa cremosa, rica em gorduras saudáveis, vitaminas e minerais essenciais. Além de seu sabor delicioso, o coco é conhecido por seus benefícios à saúde, incluindo a melhoria da saúde do coração e a promoção da saúde da pele.",
+        "nutritional_information": {
+          "calorias": 354,
+          "gordura": 33,
+          "carboidrato": 15,
+          "proteina": 3,
+          "sódio": 20
+        }
+      },
+      {
+        "id": 8,
+        "name": "jilo",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/jilo.jpg",
+        "category": "legume",
+        "price_per_kg": 2.50,
+        "rating": 3,
+        "short_description": "Legume amargo e rico em fibras.",
+        "medium_description": "O jiló é um legume amargo e rico em fibras, comumente usado em pratos tradicionais.",
+        "long_description": "O jiló é um legume de sabor amargo, amplamente utilizado em diversas culinárias ao redor do mundo. Rico em fibras e nutrientes essenciais, o jiló oferece uma série de benefícios à saúde, incluindo a melhoria da digestão e o controle do açúcar no sangue.",
+        "nutritional_information": {
+          "calorias": 20,
+          "gordura": 0,
+          "carboidrato": 4,
+          "proteina": 1,
+          "sódio": 1
+        }
+      },
+      {
+        "id": 9,
+        "name": "kiwi",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/kiwi.jpg",
+        "category": "fruta",
+        "price_per_kg": 9.00,
+        "rating": 4,
+        "short_description": "Fruta ácida e rica em vitamina C.",
+        "medium_description": "O kiwi é uma fruta deliciosa, ácida e rica em vitamina C.",
+        "long_description": "O kiwi é uma fruta pequena, mas poderosa, conhecida por seu sabor único, textura suculenta e alto teor de vitamina C. Além de ser uma excelente fonte de antioxidantes, o kiwi também oferece uma variedade de outros nutrientes essenciais, incluindo vitamina K, vitamina E e fibras dietéticas.",
+        "nutritional_information": {
+          "calorias": 61,
+          "gordura": 0.5,
+          "carboidrato": 15,
+          "proteina": 1.2,
+          "sódio": 3
+        }
+      },
+      {
+        "id": 10,
+        "name": "laranja",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/laranja.jpg",
+        "category": "fruta",
+        "price_per_kg": 4.20,
+        "rating": 5,
+        "short_description": "Fruta cítrica e refrescante, rica em vitamina C.",
+        "medium_description": "A laranja é uma fruta cítrica e refrescante, conhecida por seu alto teor de vitamina C e sabor suculento.",
+        "long_description": "A laranja é uma fruta popular, amplamente consumida por seu sabor doce e refrescante, além de seu alto teor de vitamina C e outros nutrientes essenciais. Além de ser uma excelente fonte de antioxidantes, a laranja também oferece uma variedade de benefícios à saúde, incluindo a promoção da saúde cardíaca e a melhoria da função imunológica.",
+        "nutritional_information": {
+          "calorias": 47,
+          "gordura": 0.1,
+          "carboidrato": 12,
+          "proteina": 0.9,
+          "sódio": 0
+        }
+      },
+      {
+        "id": 11,
+        "name": "maça",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/maca.jpg",
+        "category": "fruta",
+        "price_per_kg": 6.00,
+        "rating": 4,
+        "short_description": "Fruta crocante e doce, rica em fibras.",
+        "medium_description": "A maçã é uma fruta crocante, doce e rica em fibras, ideal para lanches saudáveis.",
+        "long_description": "A maçã é uma das frutas mais populares do mundo, conhecida por sua textura crocante, sabor doce e alto teor de fibras. Além de ser uma excelente fonte de nutrientes essenciais, como vitamina C e potássio, a maçã também oferece uma série de benefícios à saúde, incluindo a promoção da saúde digestiva e a redução do risco de doenças cardíacas.",
+        "nutritional_information": {
+          "calorias": 52,
+          "gordura": 0.2,
+          "carboidrato": 14,
+          "proteina": 0.3,
+          "sódio": 1
+        }
+      },
+      {
+        "id": 12,
+        "name": "mamão",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/mamao.jpg",
+        "category": "fruta",
+        "price_per_kg": 3.80,
+        "rating": 3,
+        "short_description": "Fruta suculenta e rica em vitamina C.",
+        "medium_description": "O mamão é uma fruta suculenta e rica em vitamina C, ideal para melhorar a saúde digestiva.",
+        "long_description": "O mamão é uma fruta tropical deliciosa, conhecida por sua textura suculenta, sabor doce e alto teor de vitamina C. Além de ser uma excelente fonte de antioxidantes, o mamão também oferece uma série de benefícios à saúde, incluindo a promoção da saúde digestiva, a redução da inflamação e a melhoria da saúde da pele.",
+        "nutritional_information": {
+          "calorias": 43,
+          "gordura": 0.3,
+          "carboidrato": 11,
+          "proteina": 0.5,
+          "sódio": 8
+        }
+      },
+      {
+        "id": 13,
+        "name": "manga",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/manga.jpg",
+        "category": "fruta",
+        "price_per_kg": 7.50,
+        "rating": 4,
+        "short_description": "Fruta tropical doce e suculenta, rica em vitamina A.",
+        "medium_description": "A manga é uma fruta tropical doce e suculenta, conhecida por seu alto teor de vitamina A e sabor irresistível.",
+        "long_description": "A manga é uma das frutas mais populares do mundo, apreciada por seu sabor doce, textura suculenta e alto teor de nutrientes. Além de ser uma excelente fonte de vitamina A, a manga também oferece uma variedade de outros nutrientes essenciais, incluindo vitamina C, vitamina E e fibras dietéticas.",
+        "nutritional_information": {
+          "calorias": 60,
+          "gordura": 0.4,
+          "carboidrato": 15,
+          "proteina": 0.8,
+          "sódio": 1
+        }
+      },
+      {
+        "id": 14,
+        "name": "melancia",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/melancia.jpg",
+        "category": "fruta",
+        "price_per_kg": 2.00,
+        "rating": 5,
+        "short_description": "Fruta refrescante e hidratante, ideal para dias quentes.",
+        "medium_description": "A melancia é uma fruta refrescante e hidratante, perfeita para se refrescar em dias quentes.",
+        "long_description": "A melancia é uma fruta suculenta, doce e extremamente hidratante, com alto teor de água e nutrientes essenciais. Além de ser uma escolha deliciosa para se refrescar em dias quentes, a melancia também oferece uma série de benefícios à saúde, incluindo a hidratação adequada, a melhoria da saúde cardiovascular e a promoção da saúde da pele.",
+        "nutritional_information": {
+          "calorias": 30,
+          "gordura": 0,
+          "carboidrato": 8,
+          "proteina": 1,
+          "sódio": 2
+        }
+      },
+      {
+        "id": 15,
+        "name": "mexerica",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/mexerica.jpg",
+        "category": "fruta",
+        "price_per_kg": 4.50,
+        "rating": 4,
+        "short_description": "Fruta cítrica e fácil de descascar, rica em vitamina C.",
+        "medium_description": "A mexerica é uma fruta cítrica, fácil de descascar e rica em vitamina C, perfeita para lanches saudáveis.",
+        "long_description": "A mexerica, também conhecida como tangerina ou bergamota, é uma fruta cítrica deliciosa, conhecida por sua facilidade de descascar, sabor doce e alto teor de vitamina C. Além de ser uma excelente escolha para lanches saudáveis, a mexerica oferece uma série de benefícios à saúde, incluindo a promoção da saúde imunológica, a melhoria da saúde da pele e a redução do risco de doenças crônicas.",
+        "nutritional_information": {
+          "calorias": 53,
+          "gordura": 0.3,
+          "carboidrato": 13,
+          "proteina": 0.8,
+          "sódio": 2
+        }
+      },
+      {
+        "id": 16,
+        "name": "milho",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/milho.jpg",
+        "category": "grão",
+        "price_per_kg": 3.00,
+        "rating": 4,
+        "short_description": "Grão doce e versátil, fonte de energia e fibras.",
+        "medium_description": "O milho é um grão doce e versátil, uma excelente fonte de energia e fibras.",
+        "long_description": "O milho é um dos grãos mais consumidos em todo o mundo, apreciado por sua versatilidade, sabor doce e valor nutricional. Além de ser uma excelente fonte de energia e fibras dietéticas, o milho também oferece uma variedade de outros nutrientes essenciais, incluindo vitaminas do complexo B e antioxidantes.",
+        "nutritional_information": {
+          "calorias": 86,
+          "gordura": 1.5,
+          "carboidrato": 19,
+          "proteina": 3,
+          "sódio": 15
+        }
+      },
+      {
+        "id": 17,
+        "name": "morango",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/morango.jpg",
+        "category": "fruta",
+        "price_per_kg": 12.00,
+        "rating": 5,
+        "short_description": "Fruta doce e saborosa, rica em antioxidantes.",
+        "medium_description": "O morango é uma fruta doce e saborosa, conhecida por seu alto teor de antioxidantes e sabor irresistível.",
+        "long_description": "O morango é uma das frutas mais populares do mundo, apreciado por seu sabor doce, textura suculenta e alto teor de antioxidantes. Além de ser uma excelente fonte de vitamina C e outros nutrientes essenciais, o morango também oferece uma série de benefícios à saúde, incluindo a promoção da saúde cardiovascular, a melhoria da saúde ocular e a redução do risco de doenças crônicas.",
+        "nutritional_information": {
+          "calorias": 32,
+          "gordura": 0.3,
+          "carboidrato": 8,
+          "proteina": 0.7,
+          "sódio": 1
+        }
+      },
+      {
+        "id": 18,
+        "name": "nozes",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/nozes.jpg",
+        "category": "fruto seco",
+        "price_per_kg": 25.00,
+        "rating": 4,
+        "short_description": "Fruto seco crocante e rico em gorduras saudáveis.",
+        "medium_description": "As nozes são frutos secos crocantes e ricos em gorduras saudáveis, ideais para lanches nutritivos.",
+        "long_description": "As nozes são frutos secos deliciosos, conhecidos por sua textura crocante, sabor rico e alto teor de gorduras saudáveis, incluindo ácidos graxos ômega-3. Além de serem uma excelente fonte de nutrientes essenciais, as nozes também oferecem uma série de benefícios à saúde, incluindo a promoção da saúde cardiovascular, a redução do colesterol e a melhoria da função cognitiva.",
+        "nutritional_information": {
+          "calorias": 654,
+          "gordura": 65,
+          "carboidrato": 14,
+          "proteina": 15,
+          "sódio": 0
+        }
+      },
+      {
+        "id": 19,
+        "name": "pão de milho",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pao_de_milho.png",
+        "category": "pão",
+        "price_per_kg": 8.00,
+        "rating": 4,
+        "short_description": "Pão macio e leve, feito com farinha de milho.",
+        "medium_description": "O pão de milho é um pão macio e leve, feito com farinha de milho e perfeito para acompanhar diversas refeições.",
+        "long_description": "O pão de milho é um pão tradicional, conhecido por sua textura macia, sabor leve e aroma reconfortante. Feito com farinha de milho, este pão é uma excelente opção para acompanhar uma variedade de pratos, desde sopas e saladas até pratos principais.",
+        "nutritional_information": {
+          "calorias": 264,
+          "gordura": 5,
+          "carboidrato": 48,
+          "proteina": 6,
+          "sódio": 480
+        }
+      },
+      {
+        "id": 20,
+        "name": "pão de batata doce",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pao_forma_batata_doce.png",
+        "category": "pão",
+        "price_per_kg": 9.50,
+        "rating": 4,
+        "short_description": "Pão macio e levemente adocicado, feito com batata doce.",
+        "medium_description": "O pão de batata doce é um pão macio e levemente adocicado, feito com batata doce e ideal para lanches e café da manhã.",
+        "long_description": "O pão de batata doce é um pão delicioso e reconfortante, conhecido por sua textura macia, sabor levemente adocicado e aroma irresistível. Feito com batata doce, este pão é uma excelente fonte de nutrientes essenciais, incluindo fibras, vitaminas e minerais.",
+        "nutritional_information": {
+          "calorias": 259,
+          "gordura": 2,
+          "carboidrato": 53,
+          "proteina": 6,
+          "sódio": 330
+        }
+      },
+      {
+        "id": 21,
+        "name": "pão de forma italiano",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pao_forma_italiano_integral.png",
+        "category": "pão",
+        "price_per_kg": 7.00,
+        "rating": 3,
+        "short_description": "Pão macio e versátil, perfeito para sanduíches.",
+        "medium_description": "O pão de forma italiano é um pão macio e versátil, perfeito para sanduíches e torradas.",
+        "long_description": "O pão de forma italiano é um pão macio e delicioso, conhecido por sua textura leve, sabor suave e versatilidade. Este pão é uma excelente escolha para fazer sanduíches, torradas ou simplesmente para acompanhar uma xícara de café.",
+        "nutritional_information": {
+          "calorias": 250,
+          "gordura": 3,
+          "carboidrato": 48,
+          "proteina": 8,
+          "sódio": 420
+        }
+      },
+      {
+        "id": 22,
+        "name": "pão de forma italiano integral",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pao_frances.png",
+        "category": "pão",
+        "price_per_kg": 8.50,
+        "rating": 4,
+        "short_description": "Pão integral macio e nutritivo, feito com farinha integral.",
+        "medium_description": "O pão de forma italiano integral é um pão macio e nutritivo, feito com farinha integral e perfeito para uma dieta saudável.",
+        "long_description": "O pão de forma italiano integral é uma opção deliciosa e saudável para quem busca uma alimentação equilibrada. Feito com farinha integral, este pão é rico em fibras, vitaminas e minerais essenciais, tornando-o uma excelente escolha para acompanhar uma variedade de pratos.",
+        "nutritional_information": {
+          "calorias": 215,
+          "gordura": 2.5,
+          "carboidrato": 40,
+          "proteina": 8,
+          "sódio": 380
+        }
+      },
+      {
+        "id": 23,
+        "name": "pão francês",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pao_frances.png",
+        "category": "pão",
+        "price_per_kg": 6.00,
+        "rating": 4,
+        "short_description": "Pão clássico de origem francesa, com casca crocante e miolo macio.",
+        "medium_description": "O pão francês é um clássico da panificação, conhecido por sua casca crocante e miolo macio, perfeito para acompanhar refeições.",
+        "long_description": "O pão francês é um dos pães mais populares do mundo, apreciado por sua casca crocante, miolo macio e sabor delicioso. Este pão é uma excelente escolha para acompanhar uma variedade de pratos, desde sopas e saladas até pratos principais.",
+        "nutritional_information": {
+          "calorias": 279,
+          "gordura": 2,
+          "carboidrato": 54,
+          "proteina": 9,
+          "sódio": 550
+        }
+      },
+      {
+        "id": 24,
+        "name": "pão hotdog",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pao_hot_dog.jpg",
+        "category": "pão",
+        "price_per_kg": 6.50,
+        "rating": 4,
+        "short_description": "Pão macio e ideal para preparar cachorros-quentes.",
+        "medium_description": "O pão hotdog é um pão macio, perfeito para montar deliciosos cachorros-quentes.",
+        "long_description": "O pão hotdog é um tipo de pão macio e alongado, ideal para preparar cachorros-quentes e sanduíches de tamanho médio. Feito com ingredientes simples e saborosos, o pão hotdog é uma escolha popular para refeições rápidas e saborosas.",
+        "nutritional_information": {
+          "calorias": 150,
+          "gordura": 3,
+          "carboidrato": 27,
+          "proteina": 5,
+          "sódio": 300
+        }
+      },
+      {
+        "id": 25,
+        "name": "pão integral - 14 grãos",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pao_integral_14_graos.png",
+        "category": "pão",
+        "price_per_kg": 8.00,
+        "rating": 5,
+        "short_description": "Pão nutritivo feito com uma mistura de 14 grãos integrais.",
+        "medium_description": "O pão integral - 14 grãos é uma opção nutritiva e deliciosa, feita com uma mistura de 14 grãos integrais.",
+        "long_description": "O pão integral - 14 grãos é uma opção saudável e saborosa para quem busca aumentar a ingestão de fibras e nutrientes essenciais. Feito com uma mistura de 14 grãos integrais, este pão oferece uma variedade de benefícios à saúde, incluindo a promoção da saúde digestiva e a redução do risco de doenças crônicas.",
+        "nutritional_information": {
+          "calorias": 120,
+          "gordura": 2,
+          "carboidrato": 22,
+          "proteina": 5,
+          "sódio": 180
+        }
+      },
+      {
+        "id": 26,
+        "name": "pão integral - aveia",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pao_integral_aveia.png",
+        "category": "pão",
+        "price_per_kg": 7.20,
+        "rating": 4,
+        "short_description": "Pão integral com aveia, ideal para um café da manhã nutritivo.",
+        "medium_description": "O pão integral - aveia é uma escolha nutritiva e deliciosa para um café da manhã saudável.",
+        "long_description": "O pão integral - aveia é uma opção deliciosa e nutritiva para quem busca uma alternativa saudável ao pão branco tradicional. Feito com farinha integral e aveia, este pão oferece uma textura macia e um sabor levemente adocicado, perfeito para combinar com uma variedade de coberturas.",
+        "nutritional_information": {
+          "calorias": 110,
+          "gordura": 1.5,
+          "carboidrato": 20,
+          "proteina": 4,
+          "sódio": 200
+        }
+      },
+      {
+        "id": 27,
+        "name": "pão integral - quinoa",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pao_integral_quinoa.png",
+        "category": "pão",
+        "price_per_kg": 9.50,
+        "rating": 4,
+        "short_description": "Pão integral enriquecido com quinoa, uma fonte de proteína vegetal.",
+        "medium_description": "O pão integral - quinoa é uma opção saudável e rica em proteínas, perfeita para uma dieta equilibrada.",
+        "long_description": "O pão integral - quinoa é uma escolha nutritiva e saborosa para quem busca uma opção de pão enriquecida com proteínas vegetais. A quinoa, um superalimento rico em proteínas e nutrientes essenciais, adiciona uma textura única e um sabor leve a este pão integral.",
+        "nutritional_information": {
+          "calorias": 130,
+          "gordura": 2,
+          "carboidrato": 24,
+          "proteina": 5,
+          "sódio": 180
+        }
+      },
+      {
+        "id": 28,
+        "name": "pepino",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pepino.jpg",
+        "category": "legume",
+        "price_per_kg": 2.00,
+        "rating": 3,
+        "short_description": "Legume refrescante e pouco calórico, ideal para saladas.",
+        "medium_description": "O pepino é um legume refrescante, pouco calórico e ideal para saladas e sanduíches.",
+        "long_description": "O pepino é um legume versátil e refrescante, amplamente utilizado em saladas, sanduíches e pratos de todo o mundo. Com baixo teor calórico e alto teor de água, o pepino é uma escolha saudável e refrescante para quem busca aumentar a ingestão de vegetais.",
+        "nutritional_information": {
+          "calorias": 15,
+          "gordura": 0,
+          "carboidrato": 3,
+          "proteina": 1,
+          "sódio": 2
+        }
+      },
+      {
+        "id": 29,
+        "name": "pêssego",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pessego.jpg",
+        "category": "fruta",
+        "price_per_kg": 6.80,
+        "rating": 4,
+        "short_description": "Fruta suculenta e doce, rica em vitaminas e antioxidantes.",
+        "medium_description": "O pêssego é uma fruta suculenta, doce e rica em vitaminas e antioxidantes.",
+        "long_description": "O pêssego é uma fruta deliciosa e nutritiva, conhecida por sua polpa suculenta, sabor doce e aroma irresistível. Rico em vitaminas, minerais e antioxidantes, o pêssego oferece uma série de benefícios à saúde, incluindo a promoção da saúde da pele e a melhoria da função imunológica.",
+        "nutritional_information": {
+          "calorias": 60,
+          "gordura": 0.5,
+          "carboidrato": 15,
+          "proteina": 1,
+          "sódio": 0
+        }
+      },
+      {
+        "id": 30,
+        "name": "pimentão amarelo",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/imentao_amarelo.png",
+        "category": "vegetal",
+        "price_per_kg": 4.50,
+        "rating": 4,
+        "short_description": "Vegetal crocante e colorido, rico em vitamina C.",
+        "medium_description": "O pimentão amarelo é um vegetal crocante e vibrante, conhecido por seu alto teor de vitamina C.",
+        "long_description": "O pimentão amarelo é um vegetal delicioso e versátil, apreciado por sua textura crocante, sabor doce e alto teor de vitamina C. Além de ser uma adição colorida a saladas, pratos grelhados e refogados, o pimentão amarelo oferece uma série de benefícios à saúde, incluindo a promoção da saúde ocular e a melhoria da imunidade.",
+        "nutritional_information": {
+          "calorias": 50,
+          "gordura": 0.5,
+          "carboidrato": 12,
+          "proteina": 1,
+          "sódio": 5
+        }
+      },
+      {
+        "id": 31,
+        "name": "pimentão verde",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pimentao_verde.png",
+        "category": "vegetal",
+        "price_per_kg": 3.80,
+        "rating": 4,
+        "short_description": "Vegetal refrescante e versátil, rico em antioxidantes.",
+        "medium_description": "O pimentão verde é um vegetal refrescante e versátil, conhecido por seu alto teor de antioxidantes.",
+        "long_description": "O pimentão verde é um vegetal crocante e saboroso, amplamente utilizado em uma variedade de pratos culinários ao redor do mundo. Rico em antioxidantes, vitaminas e minerais essenciais, o pimentão verde oferece uma série de benefícios à saúde, incluindo a proteção contra danos celulares e a promoção da saúde do coração.",
+        "nutritional_information": {
+          "calorias": 30,
+          "gordura": 0.4,
+          "carboidrato": 7,
+          "proteina": 1,
+          "sódio": 3
+        }
+      },
+      {
+        "id": 32,
+        "name": "pimentão vermelho",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/pimentao_vermelho.jpg",
+        "category": "vegetal",
+        "price_per_kg": 4.20,
+        "rating": 5,
+        "short_description": "Vegetal vibrante e doce, repleto de vitamina A e C.",
+        "medium_description": "O pimentão vermelho é um vegetal vibrante e doce, rico em vitamina A e C.",
+        "long_description": "O pimentão vermelho é um vegetal delicioso e nutritivo, apreciado por sua cor vibrante, sabor doce e textura crocante. Fonte de vitaminas A e C, o pimentão vermelho oferece uma série de benefícios à saúde, incluindo a promoção da saúde da pele, a melhoria da visão e o fortalecimento do sistema imunológico.",
+        "nutritional_information": {
+          "calorias": 40,
+          "gordura": 0.5,
+          "carboidrato": 9,
+          "proteina": 1,
+          "sódio": 2
+        }
+      },
+      {
+        "id": 33,
+        "name": "repolho",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/repolho.jpg",
+        "category": "vegetal",
+        "price_per_kg": 2.00,
+        "rating": 4,
+        "short_description": "Vegetal crocante e versátil, rico em fibras e baixo em calorias.",
+        "medium_description": "O repolho é um vegetal crocante e versátil, rico em fibras e baixo em calorias.",
+        "long_description": "O repolho é um vegetal nutritivo e saboroso, amplamente utilizado em saladas, sopas, refogados e pratos fermentados. Rico em fibras, vitaminas e minerais essenciais, o repolho oferece uma série de benefícios à saúde, incluindo a promoção da saúde digestiva, a redução do colesterol e a proteção contra doenças crônicas.",
+        "nutritional_information": {
+          "calorias": 25,
+          "gordura": 0.1,
+          "carboidrato": 6,
+          "proteina": 1,
+          "sódio": 15
+        }
+      },
+      {
+        "id": 34,
+        "name": "romã",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/roma.jpg",
+        "category": "fruta",
+        "price_per_kg": 7.50,
+        "rating": 4,
+        "short_description": "Fruta exótica e suculenta, rica em antioxidantes.",
+        "medium_description": "A romã é uma fruta exótica e suculenta, conhecida por seu alto teor de antioxidantes.",
+        "long_description": "A romã é uma fruta deliciosa e nutritiva, apreciada por sua cor vibrante, sabor adocicado e riqueza em antioxidantes. Consumida há séculos por suas propriedades medicinais, a romã oferece uma série de benefícios à saúde, incluindo a proteção contra doenças cardíacas, o combate à inflamação e a promoção da saúde da pele.",
+        "nutritional_information": {
+          "calorias": 80,
+          "gordura": 0.5,
+          "carboidrato": 18,
+          "proteina": 1,
+          "sódio": 5
+        }
+      },
+      {
+        "id": 35,
+        "name": "tomate",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/tomate.png",
+        "category": "vegetal",
+        "price_per_kg": 3.00,
+        "rating": 5,
+        "short_description": "Fruto versátil e saboroso, rico em licopeno e vitaminas.",
+        "medium_description": "O tomate é um fruto versátil e saboroso, conhecido por seu alto teor de licopeno e vitaminas.",
+        "long_description": "O tomate é um fruto delicioso e nutritivo, amplamente utilizado em uma variedade de pratos culinários ao redor do mundo. Rico em licopeno, vitaminas e antioxidantes, o tomate oferece uma série de benefícios à saúde, incluindo a proteção contra doenças cardíacas, o combate ao câncer e a promoção da saúde da pele.",
+        "nutritional_information": {
+          "calorias": 20,
+          "gordura": 0.2,
+          "carboidrato": 5,
+          "proteina": 1,
+          "sódio": 2
+        }
+      },
+      {
+        "id": 36,
+        "name": "uva roxa",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/uva-roxa.jpg",
+        "category": "fruta",
+        "price_per_kg": 9.00,
+        "rating": 4,
+        "short_description": "Fruta doce e suculenta, rica em antioxidantes.",
+        "medium_description": "A uva roxa é uma fruta doce e suculenta, conhecida por seu alto teor de antioxidantes.",
+        "long_description": "A uva roxa é uma fruta deliciosa e nutritiva, apreciada por sua doçura natural, suculência e riqueza em antioxidantes. Consumida fresca ou como ingrediente em sucos, vinhos e sobremesas, a uva roxa oferece uma série de benefícios à saúde, incluindo a proteção contra doenças cardíacas, o combate ao envelhecimento precoce e a promoção da saúde cerebral.",
+        "nutritional_information": {
+          "calorias": 70,
+          "gordura": 0.3,
+          "carboidrato": 18,
+          "proteina": 1,
+          "sódio": 2
+        }
+      },
+      {
+        "id": 37,
+        "name": "uva verde",
+        "image": "https://raw.githubusercontent.com/kellycsantos/images-db/main/horti-fruit/uva-verde.jpg",
+        "category": "fruta",
+        "price_per_kg": 8.50,
+        "rating": 4,
+        "short_description": "Fruta refrescante e suculenta, rica em vitamina C.",
+        "medium_description": "A uva verde é uma fruta refrescante e suculenta, conhecida por seu alto teor de vitamina C.",
+        "long_description": "A uva verde é uma fruta deliciosa e nutritiva, apreciada por sua doçura suave, textura crocante e riqueza em vitamina C e antioxidantes. Consumida fresca ou como ingrediente em saladas, sucos e sobremesas, a uva verde oferece uma série de benefícios à saúde, incluindo a promoção da saúde da pele, a melhoria da digestão e o fortalecimento do sistema imunológico.",
+        "nutritional_information": {
+          "calorias": 65,
+          "gordura": 0.4,
+          "carboidrato": 17,
+          "proteina": 1,
+          "sódio": 1
+        }
+      }
+    ]
+  }
+  
